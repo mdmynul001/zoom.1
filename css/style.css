@@ -1,0 +1,200 @@
+/*common start*/
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #ffffff;
+	padding-top: 95px;
+}
+/*common end*/
+/*header start*/
+header{
+	padding: 20px 0;
+	/*background-color: #4adccc;*/
+}
+.custom_nav{}
+.logo{}
+.menu{}
+.menu ul li a{
+    color: #453e40 !important;
+    padding: 0 40px;
+}
+.menu ul li:last-child a{}
+.menu ul li a:hover{
+	color: white !important;
+	background-color: #5fdab8 !important;
+}
+/*header end*/
+/*hero start*/
+.hero{
+	background-color: #4adccc;
+	border: 1px solid black;
+}
+.custom_hero{
+	margin-top: 220px;
+	margin-bottom: 200px;
+}
+.hero_text{
+	font-size: 60px;
+	font-weight: 300;
+	margin-bottom: 45px !important;
+}
+.common_btn{
+	width: 230px;
+    height: 55px;
+    margin: 0 auto;
+    text-transform: uppercase;
+    background-color: #ff4e56;
+    color: white;
+}
+
+
+/*hero end*/
+/*service start*/
+.service{}	
+.custom_service{
+	margin-top: 75px;
+	margin-bottom: 60px;
+}
+.service_icon{}
+.service h2{
+	padding: 25px 0 45px;
+}
+.custom_h2{
+	font-size: 16px;
+    text-transform: uppercase;
+	color: #3f4244;
+}
+.custom_p{
+	color: #afb6b9;
+}
+.service_btn{
+	padding-top: 60px;
+}
+/*service end*/
+/*browser_add start*/
+.browser_add{
+   background-color: #ff5955;
+}
+
+.b_title{
+	margin-top: 75px;
+
+}
+.c_h3{
+	font-size: 40px;
+
+}
+.c_p{
+	padding-top: 25px !important;
+}
+.custom_browser{
+	padding-top: 30px;
+}
+/*browser_add end*/
+/*phone add start */
+.phone_add{
+	margin-top: 60px;
+	margin-bottom: 55px;
+}
+.phone_add_img{
+	/*padding-right: 110px;*/
+	padding-left: 100px;
+}
+.phone_add_text{}
+.phone_add_text h4{
+	padding-top: 70px;
+}
+.custom_h4_black{
+	font-size: 35px;
+	font-weight: 400px !important;
+	color: black;
+}
+.phone_add_text p{
+	padding-top: 40px;
+}
+.phone_add_text button{}
+/*phone add end*/
+/*team start*/
+.team{}
+.team_title{}
+.team_title h3{
+	padding-top: 70px;
+	padding-bottom: 40px;
+}
+.team_p{}
+.custom_team{
+	padding-top: 70px;
+	padding-bottom: 50px;
+}
+.team_img_text{
+	background-color: #64f7c7;
+}
+.team_img{}
+.team_img_text h2{
+	padding-top: 15px;
+	padding-bottom: 8px;
+	font-size: 18px;
+	font-weight: 500;
+	color: #453e40;
+}
+.team_img_text h4{
+	font-size: 16px;
+	font-weight: 400;
+}
+.team_img_text p{
+	padding-top: 15px;
+	padding-bottom: 20px;
+	line-height: 16px;
+	letter-spacing: -1px;
+
+}
+/*team end*/
+/*about start*/
+.about{
+	margin-bottom: 50px;
+}
+.about_img{}
+.about_text{}
+.about_text h2{
+	 padding: 20px 0;
+	font-size: 20px;
+	font-weight: 500;
+}
+.about_text p{}
+/*about end*/
+/*contact start*/
+.contact{
+	background-color: #3f4244;
+}
+.custom_contact{
+	padding-top: 90px;
+	padding-bottom: 70px;
+}
+.contact_text{
+	background-color: #4bddcc;
+    padding: 20px 30px;
+}
+.contact_text p{
+	color: white !important;
+}
+.c_c_a{
+	text-decoration: none;
+	color: white !important;
+}
+/*contact end*/
+/*footer start*/
+footer{
+	background-color: #233537;
+	padding-top: 40px;
+	padding-bottom: 45px;
+}
+footer p{
+	font-weight: 500;
+}
+.f_zoom{
+	text-decoration: none;
+	list-style: none;
+	color: #10cab7;
+}
+/*footer end*/
